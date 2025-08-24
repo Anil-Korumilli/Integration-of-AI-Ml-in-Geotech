@@ -107,6 +107,22 @@ Enhance visualization for better interpretability.
 
 # 🔹SNAPSHOTS 
 
-## 📊 Model Performance Comparison  
+## 📊  Upload Dataset Interface
 
-![Model Performance]()
+![Model Performance](https://github.com/Anil-Korumilli/Integration-of-AI-Ml-in-Geotech/blob/main/Snapshot%20of%20uploading%20data.png)
+
+## Model Comparison Results (Metrics Table)   
+
+![Model Performance]
+
+## Model Comparison (Bar Chart)  
+
+![Model Performance]
+
+## Model Performance Heatmap  
+
+![Model Performance]
+
+## Manual Prediction GUI  
+
+![Model Performance]
