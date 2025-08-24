@@ -104,3 +104,9 @@ Deploy GUI as a standalone desktop app or web-based app.
 Integrate automatic feature selection.
 
 Enhance visualization for better interpretability.
+
+# 🔹SNAPSHOTS 
+
+## 📊 Model Performance Comparison  
+
+![Model Performance]()
