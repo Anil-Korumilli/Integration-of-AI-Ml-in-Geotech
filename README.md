@@ -113,16 +113,16 @@ Enhance visualization for better interpretability.
 
 ## Model Comparison Results (Metrics Table)   
 
-![Model Performance]
+![Model Performance](https://github.com/Anil-Korumilli/Integration-of-AI-Ml-in-Geotech/blob/main/Snapshot%20of%20Model%20comparison%20Results.png)
 
 ## Model Comparison (Bar Chart)  
 
-![Model Performance]
+![Model Performance](https://github.com/Anil-Korumilli/Integration-of-AI-Ml-in-Geotech/blob/main/Snapshot%20of%20Bar%20chart%20comparison.png)
 
 ## Model Performance Heatmap  
 
-![Model Performance]
+![Model Performance](https://github.com/Anil-Korumilli/Integration-of-AI-Ml-in-Geotech/blob/main/Snapshot%20of%20heatmap%20matrix.png)
 
 ## Manual Prediction GUI  
 
-![Model Performance]
+![Model Performance](https://github.com/Anil-Korumilli/Integration-of-AI-Ml-in-Geotech/blob/main/Snapshot%20of%20manual%20prediction.png)
